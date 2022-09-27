@@ -1,5 +1,8 @@
+![image](https://user-images.githubusercontent.com/104745834/192463122-c977e1d5-a070-48f4-a1e4-d40a166708b1.png)
+
+
 # 💫 About Me:
-Hello everyone, my name is Jorge. My passions for video games and technology have led me down the road of programing and I am now a Full-Stack developer! Through self-study and enrolling in a coding Bootcamp at University of Riverside California, I have acquired a solid foundation in both frontend and backend technologies and languages, as well as the superpower to sit at my desk for 10 hours straight. My goals in life include becoming a senior full-stack developer,  creating something that revolutionizes the world, and living long enough to play GTA6.  
+Hello everyone :wave:, my name is Jorge. My passions for video games and technology have led me down the road of programing and I am now a Full-Stack developer! Through self-study and enrolling in a coding Bootcamp at University of Riverside California, I have acquired a solid foundation in both frontend and backend technologies and languages, as well as the superpower to :star:*sit at my desk for 10 hours straight*:star:. My goals in life include becoming a senior full-stack developer,  creating something that revolutionizes the world, and living long enough to play GTA6 :eye::lips::eye:.  
 
 
 ## 🌐 Socials:
