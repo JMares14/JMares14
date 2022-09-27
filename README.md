@@ -16,7 +16,7 @@ Hello everyone, my name is Jorge. My passions for video games and technology hav
 ![](https://github-profile-trophy.vercel.app/?username=JMares14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JMares14&icon=0&color=5)](https://visitcount.itsvg.in)
