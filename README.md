@@ -1,5 +1,4 @@
-<img align="center" src="https://camo.githubusercontent.com/31a2f49c2960bd98e115c536f78f1781d631d2097cbbd73cb006be1aa526246b/68747470733a2f2f692e696d6775722e636f6d2f4136625747466c2e676966">
-
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 # 💫 About Me:
 Hello everyone :wave:, my name is Jorge. My passions for video games and technology have led me down the road of programing and I am now a Full-Stack developer! Through self-study and enrolling in a coding Bootcamp at University of Riverside California, I have acquired a solid foundation in both frontend and backend technologies and languages, as well as the superpower to :star:*sit at my desk for 10 hours straight*:star:. My goals in life include becoming a senior full-stack developer,  creating something that revolutionizes the world, and living long enough to play GTA6 :eye::lips::eye:.  
