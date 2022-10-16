@@ -3,6 +3,8 @@
 # 💫 About Me:
 Hello everyone :wave:, my name is Jorge. My passions for video games and technology have led me down the road of programing and I am now a Full-Stack software engineer! Through self-study and enrolling in a coding Bootcamp at University of Riverside California, I have acquired a solid foundation in both frontend and backend technologies and languages, as well as the superpower to :star:*sit at my desk for 10 hours straight*:star:. My goals in life include becoming a senior full-stack software engineer,  creating something that revolutionizes the world, and living long enough to play GTA6 :eye::lips::eye:.  
 
+<a href"https://jmares14.github.io/Professional-Portfolio/"> View My Portfolio</a>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jorge-mares-173426239) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19012016) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@dank_af_) 
